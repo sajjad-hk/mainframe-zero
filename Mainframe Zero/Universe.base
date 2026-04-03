@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tags
+      - file.mtime
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 277
+      note.tags: 173
+      note.source: 552
+      file.mtime: 201

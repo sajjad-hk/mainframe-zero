@@ -1,0 +1,401 @@
+{
+  "main": {
+    "id": "effda1897a1dd635",
+    "type": "split",
+    "children": [
+      {
+        "id": "5737d4d16d1dc64e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53836be147b39a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current Job.old/Daily/Daily Digests dirty.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily Digests dirty"
+            }
+          },
+          {
+            "id": "a2bebdfe6b806a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Car/Honda Civic FK/Projects/_template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_template"
+            }
+          },
+          {
+            "id": "a11c8696ff5159d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Car/Honda Civic FK/Projects/Backup Camera Restoration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Backup Camera Restoration"
+            }
+          },
+          {
+            "id": "75812838aec777c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Car/Honda Civic FK/Parts/Osłona skrzyni biegów i silnika Kolchuga.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Osłona skrzyni biegów i silnika Kolchuga"
+            }
+          },
+          {
+            "id": "01fd52b1b11c5327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Honda Civic FK (2012).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Honda Civic FK (2012)"
+            }
+          },
+          {
+            "id": "688c41d17c449981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic/AI Fluency.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AI Fluency"
+            }
+          },
+          {
+            "id": "4e457e28dc9a7dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hobby/Need to Buy/Mountain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mountain"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40ad5e06603dfdaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9475160d90b155c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "454bd28e2ba387be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "460c5f4a1d4e8341",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af1f68985ccfa471",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "right": {
+    "id": "1d2f10c198c4a13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b3cb635ed97ff7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aea297e038799d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2025-08-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-08-25"
+            }
+          },
+          {
+            "id": "07ac7b0c30f89fde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2025-08-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-08-25"
+            }
+          },
+          {
+            "id": "601c9a1443517743",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "13dd01c3130ff005",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Architecture Design/OOP vs. DOP.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of OOP vs. DOP"
+            }
+          },
+          {
+            "id": "526e799fc923fb49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "1d274b17b8100216",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "53836be147b39a45",
+  "lastOpenFiles": [
+    "Current Job.old/Daily/2025-08-29.md",
+    "Current Job.old/Daily/2026-03-05.md",
+    "Current Job.old/Daily/2025-08-25.md",
+    "Job/Xpansiv.md",
+    "Job/NorthGravity.md",
+    "Job/Meetings/_template-week.md",
+    "Job/Quarterly Review/_template-quarterly-review.md",
+    "Job/Tech/_template-tech.md",
+    "Job/Tasks/Jbpm shutdown Compliance Rejection.md",
+    "Job/Tasks/Jbpm shutdown Inspect Transfer Error.md",
+    "Job/Tasks/Jbpm shutdown Registry Access Failure.md",
+    "Job/Tasks/Jbpm shutdown Resolve Recon Issue.md",
+    "Job/Tasks/NEPOOL Registry Improve performance of sync job.md",
+    "Job/Tasks/_template-task.md",
+    "Job/Tech/Cursor.md",
+    "Car/Honda Civic FK/Dashboard.md",
+    "Car/Honda Civic FK/Projects/_template.md",
+    "Car/Honda Civic FK/Parts/_template.md",
+    "Car/Honda Civic FK/Work Log/_template.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Job/Tech/Untitled.md",
+    "Hobby/Krakow Mountain Festival 2025.md",
+    "Job/Career/Achievements.md",
+    "Car/Honda Civic FK/Projects/Dashboard Camera.md",
+    "Hobby/Climbing routes.md",
+    "Untitled.canvas",
+    "Job/{Tasks,Tech,Meetings,Career,Weekly Review}",
+    "Job/Quarterly Review",
+    "Job/Tech",
+    "Job/Tasks",
+    "Job/Meetings",
+    "Job/Career",
+    "Job",
+    "Current Job.old/XPANSIV/Customized JBPM workflows.canvas",
+    "Car/Honda Civic FK/Parts",
+    "Car/Honda Civic FK/Work Log",
+    "Car/Honda Civic FK/Projects",
+    "Pasted image 20260302145315.png",
+    "Current Job/Tasks/Untitled.canvas",
+    "Presents.canvas",
+    "Job Learning/Drone Pilot/UAV A1-A3 Course/A1,A3 Review.canvas",
+    "Pasted image 20251214190104.png",
+    "Untitled 2.canvas"
+  ]
+}

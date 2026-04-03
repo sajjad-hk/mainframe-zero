@@ -1,0 +1,3 @@
+- [ ] [How microservice architectures have shaped the usage of database technologies](https://www.datadoghq.com/blog/datadog-database-research/)
+- [ ] [Sezon letni w Tatrach 2025 – podsumowanie](https://wspinanie.pl/2025/12/sezon-letni-w-tatrach-2025-podsumowanie/)
+- [ ] 

@@ -1,0 +1,232 @@
+{
+  "workspaces": {
+    "Organizing Notes": {
+      "main": {
+        "id": "effda1897a1dd635",
+        "type": "split",
+        "children": [
+          {
+            "id": "c26337ed2a2d7666",
+            "type": "tabs",
+            "dimension": 41.069330199764984,
+            "children": [
+              {
+                "id": "0ed45ca8cc7a714f",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "9374f509d9521ce8",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "Universe.base",
+                    "viewName": "Table"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Universe"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "ba0d0bf57f919f7d",
+            "type": "tabs",
+            "dimension": 58.930669800235016,
+            "children": [
+              {
+                "id": "d88ad0bef61c1bb5",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "40ad5e06603dfdaf",
+        "type": "split",
+        "children": [
+          {
+            "id": "c9475160d90b155c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "454bd28e2ba387be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "460c5f4a1d4e8341",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "af1f68985ccfa471",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 406.5
+      },
+      "right": {
+        "id": "1d2f10c198c4a13a",
+        "type": "split",
+        "children": [
+          {
+            "id": "4b3cb635ed97ff7a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8aea297e038799d2",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Daily/2025-08-25.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-08-25"
+                }
+              },
+              {
+                "id": "07ac7b0c30f89fde",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Daily/2025-08-25.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-08-25"
+                }
+              },
+              {
+                "id": "601c9a1443517743",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "13dd01c3130ff005",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Software Architecture Design/OOP vs. DOP.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of OOP vs. DOP"
+                }
+              },
+              {
+                "id": "526e799fc923fb49",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "1d274b17b8100216",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "454bd28e2ba387be",
+      "mtime": "2025-10-02T19:08:18+02:00"
+    }
+  },
+  "active": "Organizing Notes"
+}

@@ -1,0 +1,1 @@
+[Certification Organization EU](https://uimla.org/about-us/becoming-an-international-mountain-leader/)

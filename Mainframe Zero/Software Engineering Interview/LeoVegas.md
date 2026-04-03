@@ -1,0 +1,5 @@
+- [p] Screen interview 
+- [p] Technical interview
+	- [p] Wallet code in spring
+- [p] Logic and behavioral online test
+- [p] hiring manager interview

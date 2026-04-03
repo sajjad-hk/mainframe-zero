@@ -1,0 +1,58 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Car/Honda Civic FK/Projects",
+      "template": "Car/Honda Civic FK/Projects/_template.md"
+    },
+    {
+      "folder": "Car/Honda Civic FK/Parts",
+      "template": "Car/Honda Civic FK/Parts/_template.md"
+    },
+    {
+      "folder": "Car/Honda Civic FK/Work Log",
+      "template": "Car/Honda Civic FK/Work Log/_template.md"
+    },
+    {
+      "folder": "Job/Meetings",
+      "template": "Job/Meetings/_template-week.md"
+    },
+    {
+      "folder": "Job/Tasks",
+      "template": "Job/Tasks/_template-task.md"
+    },
+    {
+      "folder": "Job/Tech",
+      "template": "Job/Tech/_template-tech.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

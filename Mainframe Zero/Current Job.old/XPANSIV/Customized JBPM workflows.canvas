@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"f2a766a9011a8665","type":"text","text":"IGraphiteWorkflow","x":-840,"y":210,"width":250,"height":60},
+		{"id":"41669f018d536fa4","type":"text","text":"IGraphiteWorkflowManager","x":-840,"y":60,"width":250,"height":60},
+		{"id":"759ebe5c50227c51","type":"text","text":"GraphiteWorkflowManagerJBPMImpl","x":-872,"y":-80,"width":314,"height":60},
+		{"id":"053d05400faf18a2","type":"text","text":"GraphiteWorkflowJBPMImpl","x":-505,"y":60,"width":250,"height":60},
+		{"id":"ff992709de8fa81f","type":"text","text":"WFProcessDefinition","x":-872,"y":360,"width":250,"height":60},
+		{"id":"b0969df093a6f850","type":"text","text":"WFProcessInstance","x":-520,"y":360,"width":250,"height":60},
+		{"id":"7fd2e4d5e44f095d","type":"text","text":"ProcessInstance\n(external JBPM)","x":-520,"y":480,"width":250,"height":60},
+		{"id":"2d8773a084e7fb61","type":"text","text":"ProcessDefinition\n(external JBPM)","x":-872,"y":480,"width":250,"height":60},
+		{"id":"6104693a3657fb05","type":"text","text":"GraphiteWorkflowDBPersistentServiceFactory","x":-1254,"y":658,"width":382,"height":60},
+		{"id":"043dfee194963610","type":"text","text":"GraphiteWorkflowDBPersistentService","x":-719,"y":880,"width":324,"height":60},
+		{"id":"803d4d53e1cc9d48","type":"text","text":"DbPersistenceService\n(external JBPM)","x":-682,"y":1072,"width":250,"height":60},
+		{"id":"e9ff266282231ca0","type":"text","text":"DbPersistenceServiceFactory\n(external JBPM)","x":-1217,"y":850,"width":308,"height":60},
+		{"id":"54557531386a6878","type":"text","text":"GraphiteAssignmentHandler","x":-1808,"y":668,"width":251,"height":50},
+		{"id":"0d3f82b7a612a7a1","type":"text","text":"AssignmentHandler\n(external JBPM)","x":-1815,"y":820,"width":266,"height":60},
+		{"id":"d68d65b43d356020","x":-1217,"y":480,"width":250,"height":60,"type":"text","text":"TaskInstance\n(external JBPM)"},
+		{"id":"51646bb88b694492","x":-1217,"y":360,"width":250,"height":60,"type":"text","text":"WFTaskInstance"},
+		{"id":"f192743074d738a2","x":-1340,"y":-80,"width":311,"height":60,"type":"text","text":"GraphiteWorkflowJBPMHelper"}
+	],
+	"edges":[
+		{"id":"4aa27125fbb9795b","fromNode":"41669f018d536fa4","fromSide":"bottom","toNode":"f2a766a9011a8665","toSide":"top","label":"extends"},
+		{"id":"402d10219a9117c3","fromNode":"053d05400faf18a2","fromSide":"bottom","toNode":"f2a766a9011a8665","toSide":"right","label":"implements\n\n"},
+		{"id":"06fcb52809400d9f","fromNode":"759ebe5c50227c51","fromSide":"bottom","toNode":"41669f018d536fa4","toSide":"top","label":"implements"},
+		{"id":"4fe0acd84af8caf2","fromNode":"759ebe5c50227c51","fromSide":"right","toNode":"053d05400faf18a2","toSide":"top","label":"extends"},
+		{"id":"8ce94474a0a7bab9","fromNode":"043dfee194963610","fromSide":"bottom","toNode":"803d4d53e1cc9d48","toSide":"top","label":"extends"},
+		{"id":"bb3f895f9567d598","fromNode":"6104693a3657fb05","fromSide":"bottom","toNode":"e9ff266282231ca0","toSide":"top","label":"extends"},
+		{"id":"9b2ba925c4453db1","fromNode":"6104693a3657fb05","fromSide":"right","toNode":"043dfee194963610","toSide":"top","label":"creates"},
+		{"id":"24a10a0c32fea39b","fromNode":"54557531386a6878","fromSide":"bottom","toNode":"0d3f82b7a612a7a1","toSide":"top","label":"implements"}
+	]
+}
