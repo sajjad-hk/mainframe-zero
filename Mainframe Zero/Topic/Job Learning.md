@@ -1,5 +1,0 @@
-[[Java]]
-[[Software Engineering Interview]]
-[[Software System Design]]
-[[Software Architecture Design]]
-[[Algorithm & Data Structure]]

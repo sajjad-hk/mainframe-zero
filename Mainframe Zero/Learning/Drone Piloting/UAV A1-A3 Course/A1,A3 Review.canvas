@@ -27,7 +27,6 @@
 		{"id":"551ce26bd199e556","type":"text","text":"C4\n< 25 kg\nNo speed limit\nA1/A3 training and exam required\nMust be registered","x":1529,"y":-1139,"width":331,"height":144},
 		{"id":"408bd97e5323c371","type":"text","text":"model aircraft - no automatic modes; flights away from persons, not over assemblies of people, min. 150 m from urban, industrial and other areas.","x":1610,"y":-874,"width":250,"height":174},
 		{"id":"b5debfb0601ef2cb","type":"text","text":"### What to do when your drone does not have the C designation? Are you allowed to fly it?\n**Yes – you are allowed to fly it.**","x":-490,"y":-1400,"width":422,"height":106},
-		{"id":"a37b98f54445b6df","type":"file","file":"Job Learning/Drone Pilot/UAV A1-A3 Course/Uncategorized UAV.md","x":-480,"y":-2046,"width":399,"height":476},
 		{"id":"d3b7298a2ebe6f8f","type":"text","text":"Geographical zones","x":-1015,"y":597,"width":185,"height":60},
 		{"id":"5b8647d0b033cbad","type":"text","text":"A geographical zone is an area that applies only and exclusively to operations conducted with unmanned aerial systems.","x":-1130,"y":320,"width":341,"height":97},
 		{"id":"3ec6042b1ad73a9e","type":"text","text":"R","x":-480,"y":667,"width":50,"height":60},
@@ -57,7 +56,8 @@
 		{"id":"fdbb88a3913d0966","type":"text","text":"DRone Airspace Restricted High - a restricted geographical zone where the likelihood of obtaining permission for a drone flight is high, e.g., more than 6 km from an aerodrome","x":-297,"y":1370,"width":247,"height":201},
 		{"id":"def52315fe4890ac","type":"text","text":"DRone Airspace Restricted Medium - a restricted geographical zone where the likelihood of obtaining permission for a drone flight is medium, e.g. zones between 1 and 6 km from aerodromes, zones above 500 m from protected facilities","x":20,"y":1494,"width":231,"height":273},
 		{"id":"4594d31f6b59cccf","type":"text","text":"UAS operator","x":1735,"y":-1807,"width":141,"height":60},
-		{"id":"e53ad36027774d49","type":"text","text":"An unmanned aerial system operator means any legal or natural person operating or intending to operate one or more UAV.","x":1977,"y":-1864,"width":312,"height":114}
+		{"id":"e53ad36027774d49","type":"text","text":"An unmanned aerial system operator means any legal or natural person operating or intending to operate one or more UAV.","x":1977,"y":-1864,"width":312,"height":114},
+		{"id":"a37b98f54445b6df","type":"file","file":"Job Learning/Personal/Drone Pilot/UAV A1-A3 Course/Content.md","x":-509,"y":-2046,"width":460,"height":476}
 	],
 	"edges":[
 		{"id":"9027013774c69fe9","fromNode":"4042aeb3465ca4c2","fromSide":"bottom","toNode":"285667694ebde451","toSide":"top"},

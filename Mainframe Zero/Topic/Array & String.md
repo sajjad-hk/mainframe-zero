@@ -1,6 +1,0 @@
-[[151. Reverse Words in a String]]
-[[345. Reverse Vowels of a String]]
-[[605. Can Place Flowers]]
-[[1071. Greatest Common Divisor of Strings]]
-[[1431. Kids With the Greatest Number of Candies]]
-[[1768. Merge Strings Alternately]]
