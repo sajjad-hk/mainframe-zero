@@ -5,7 +5,7 @@ tags:
 ## Polskie Tatry
 
 ### Mięguszowiecki Szczyt Wielki
-
+- [Czarny Filar](https://drytooling.pl/baza/topo/tatry/2689-czarny-filar-mieguszowiecki-szczyt-wielki)
 
 ## Dolomite
 

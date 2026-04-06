@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53836be147b39a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Job.old/Daily/Daily Digests dirty.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daily Digests dirty"
-            }
-          },
-          {
-            "id": "a2bebdfe6b806a95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Car/Honda Civic FK/Projects/_template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_template"
-            }
-          },
-          {
             "id": "a11c8696ff5159d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Car/Honda Civic FK/Projects/Backup Camera Restoration.md",
+                "file": "Job/Tech/JBPM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Backup Camera Restoration"
+              "title": "JBPM"
             }
           },
           {
@@ -351,46 +303,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53836be147b39a45",
+  "active": "a11c8696ff5159d9",
   "lastOpenFiles": [
-    "Current Job.old/Daily/2025-08-29.md",
-    "Current Job.old/Daily/2026-03-05.md",
-    "Current Job.old/Daily/2025-08-25.md",
-    "Job/Xpansiv.md",
-    "Job/NorthGravity.md",
-    "Job/Meetings/_template-week.md",
-    "Job/Quarterly Review/_template-quarterly-review.md",
-    "Job/Tech/_template-tech.md",
-    "Job/Tasks/Jbpm shutdown Compliance Rejection.md",
-    "Job/Tasks/Jbpm shutdown Inspect Transfer Error.md",
-    "Job/Tasks/Jbpm shutdown Registry Access Failure.md",
-    "Job/Tasks/Jbpm shutdown Resolve Recon Issue.md",
-    "Job/Tasks/NEPOOL Registry Improve performance of sync job.md",
-    "Job/Tasks/_template-task.md",
-    "Job/Tech/Cursor.md",
-    "Car/Honda Civic FK/Dashboard.md",
-    "Car/Honda Civic FK/Projects/_template.md",
-    "Car/Honda Civic FK/Parts/_template.md",
-    "Car/Honda Civic FK/Work Log/_template.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Job/Tech/Untitled.md",
-    "Hobby/Krakow Mountain Festival 2025.md",
-    "Job/Career/Achievements.md",
-    "Car/Honda Civic FK/Projects/Dashboard Camera.md",
-    "Hobby/Climbing routes.md",
-    "Untitled.canvas",
-    "Job/{Tasks,Tech,Meetings,Career,Weekly Review}",
-    "Job/Quarterly Review",
-    "Job/Tech",
-    "Job/Tasks",
-    "Job/Meetings",
-    "Job/Career",
-    "Job",
+    "Annual/OKRS/2026.md.tmp.1772.1775474689730",
+    "Job/Learning Plan.md.tmp.1772.1775474688299",
+    "Job Learning/Certifications/GCP/GCP.md.tmp.1772.1775474685346",
+    "Job Learning/Certifications/CKAD/CKAD.md.tmp.1772.1775474626986",
+    "Annual/OKRS/2026.md.tmp.1772.1775474505699",
+    "Job/Learning Plan.md.tmp.1772.1775474504019",
+    "Job/Learning Plan.md",
+    "Job/Learning Plan.md.tmp.1772.1775474166707",
+    "Job Learning/AI Engineering/AI Engineering.md",
+    "Job Learning/AI Engineering/AI Engineering.md.tmp.1772.1775474154143",
+    "Job Learning/System Design/System Design.md",
+    "Job Learning/System Design/System Design.md.tmp.1772.1775474151675",
+    "Job Learning/Java/Java.md",
+    "Job Learning/Java/Java.md.tmp.1772.1775474148834",
+    "Job Learning/Certifications/GCP/GCP.md",
+    "Job Learning/Certifications/GCP/GCP.md.tmp.1772.1775474142961",
+    "Job Learning/Certifications/CKAD/CKAD.md",
+    "Job/Tech/Xpansiv Stack Onboarding.md",
+    "Job Learning/System Design/Software System Design Interview/Design LRU  Distributed Caching.md",
+    "Job Learning/System Design/Software System Design Interview/Design a Web Crawler.md",
+    "Job Learning/System Design/Software System Design.md",
+    "Job Learning/Algorithms & DS/Recursion.md",
+    "Job Learning/Algorithms & DS/Quick Sort.md",
+    "Job Learning/Algorithms & DS/Merge Sort.md",
+    "Job Learning/Algorithms & DS/Problems solving using Stack.md",
+    "Job Learning/Algorithms & DS/Kth Ordinal statistics.md",
+    "Job Learning/Personal/Mountain Guide/Overview.md",
+    "Job Learning/Personal/Drone Pilot/UAV A1-A3 Course/Uncategorized UAV.md",
+    "Job Learning/Personal/Drone Pilot/UAV A1-A3 Course/Content.md",
+    "Job Learning/Personal/Drone Pilot/UAV A1-A3 Course/A1,A3 Review.canvas",
+    "Job Learning/Personal/Drone Pilot/Overview.md",
+    "Job Learning/AI Engineering/AI Engineering Courses.md",
+    "Job Learning/Certifications/CKAD/Containers.md",
+    "Job Learning/Java/JAVA Queue.md",
+    "Job Learning/Java/JAVA Linked List.md",
+    "Job Learning/Java/JAVA HashSet.md",
+    "Job Learning/Java/JAVA HashMap.md",
     "Current Job.old/XPANSIV/Customized JBPM workflows.canvas",
-    "Car/Honda Civic FK/Parts",
-    "Car/Honda Civic FK/Work Log",
-    "Car/Honda Civic FK/Projects",
+    "Job/Tech/Customized JBPM workflows.canvas",
+    "Untitled.canvas",
     "Pasted image 20260302145315.png",
     "Current Job/Tasks/Untitled.canvas",
     "Presents.canvas",

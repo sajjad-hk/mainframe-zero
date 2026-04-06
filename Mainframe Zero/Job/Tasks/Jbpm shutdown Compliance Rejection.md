@@ -11,7 +11,7 @@ completed:
 # 🛠️ Jbpm shutdown Compliance Rejection
 
 ## Context
-What is this task about and why does it exist?
+NC-RETS registry (ID: `0989FC11`). Yearly, an obligation is created containing a certain amount of credit retired, submitted to a sub-account that is reviewed by the North Carolina registry compliance team → approved or rejected. On rejection, a compliance rejection is created that needs to be handled later on. This task covers the JBPM shutdown migration for that flow.
 
 ## Scope
 What needs to be done? What is out of scope?

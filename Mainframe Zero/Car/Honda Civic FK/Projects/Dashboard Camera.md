@@ -46,7 +46,8 @@ SORT date ASC
 
 ## Research notes
 
-_Links, forum posts, part numbers, anything gathered during research._
+- [Joying Android 12 head unit](https://www.joyingauto.com/blog/post/joying-android-12-0-qualcomm-snapdragon-system-update/)
+- [Incartec interface for Honda Civic/CRV EU 2012-2017 (Dealer Fit Type B)](https://incartec.co.uk/product/Interface-for-Honda-Civic-CRV-EU-2012-2017-with-Dealer-Fit-Type-B-Navigation-29-735)
 
 ## Next step
 

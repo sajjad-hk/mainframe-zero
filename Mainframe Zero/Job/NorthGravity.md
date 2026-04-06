@@ -21,3 +21,10 @@ since: YYYY-MM
 - Email: 
 
 ## Notes
+
+## Onboarding
+### Access checklist
+- [p] Gmail
+- [p] Slack
+- [p] Atlassian
+- [p] Days off — [tracker.day-off.app](https://tracker.day-off.app)

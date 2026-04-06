@@ -17,8 +17,27 @@ When there are transactions happening inside of NEPOOL Registry (SOAP Server) th
 Change of the parser from XPath to manual stream paser and unify the logic from 4 different areas that has been called.
 
 ## Technical Notes
-- Use feature flag `NEPOOL_XML_PARSING_OPTIMIZE_REGISTRY_SYNC`
-- Remove XPath queries and parse the document manually
+- Feature flag: `NEPOOL_XML_PARSING_OPTIMIZE_REGISTRY_SYNC`
+- Root cause: repeated XPath queries (e.g. `/ROOT/recLog/row[@TransferType='...']`) traversed the entire DOM on every call, plus DB lookups inside loops
+- Fix: single-pass manual DOM traversal (`ApxRecParsedDocument`) + batch DB lookups upfront
+
+### Performance results
+| Run | Before | After |
+|-----|--------|-------|
+| 1 | 2m 48s | 2m 49s |
+| 2 | 2m 33s | 1m 54s |
+| 3 | 2m 34s | 1m 46s |
+
+### Testing
+Trigger sync manually via EvalGroovy:
+```groovy
+import com.apx.transact.refdata.RegistryProgramReference
+import com.apx.util.spring.SpringAccess as $
+$.registrySync.sync(RegistryProgramReference.NEPOOL);
+```
+- NEPOOL user EMAId: `098ACF87`
+- Reporting period EMAId: `098A2A89`
+- Audit logs: `/ema/runtime-data/audit-logs/`
 
 ## Key Component Code
 
