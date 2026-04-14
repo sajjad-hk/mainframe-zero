@@ -39,6 +39,11 @@ $.registrySync.sync(RegistryProgramReference.NEPOOL);
 - Reporting period EMAId: `098A2A89`
 - Audit logs: `/ema/runtime-data/audit-logs/`
 
+#### Log to identify optimization running:
+```Java
+LOG.info("Beginning processing with " + (isUsingXMLOptimizationsEnabled? "optimized XML parsing" : "standard XML parsing"));
+```
+
 ## Key Component Code
 
 > [!INFO]- ApxRecParsedDocument class

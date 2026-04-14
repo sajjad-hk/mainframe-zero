@@ -9,7 +9,7 @@ since: YYYY-MM
 ## Employment context
 - Type: Permanent contractor
 - Contracted to: [[Xpansiv]]
-- Since: YYYY-MM
+- Since: 2025-11
 
 ## Contract details
 - Contract renewal date: 

@@ -18,10 +18,10 @@ API endpoint:
 - `/get-summary`
 
 ## Testing users EMAId
-| EMAId | Entity |
-|-------|--------|
+| EMAId      | Entity                    |
+| ---------- | ------------------------- |
 | `0989EC03` | EDF Trading North America |
-| `098ACF87` | ACT Commodities Inc |
+| `098ACF87` | ACT Commodities Inc       |
 
 ## PA Dashboard — InspectTransferError Scope
 

@@ -1,4 +1,0 @@
-- [ ] [Muzeum im. Bolesława Biegasa](https://www.facebook.com/MuzeumBoleslawaBiegasa?__cft__[0]=AZUxjVRuOWVcvexF_H--fWBtjHcDJpsr8PdVwVYv_C7d-Mtindi12L2FolD1CGhCQf4of5S6G9PESTocYWmJxr5Gpj5jIiPgUGPoOwL-ro6CUEzTA6t8KTYsrbn7p8DHy6hoZ3ENhxeRD4lpHgQeSw1EcX-SgtlPULBNCCwJq6Ej6o6uskq6AKyllh0NvmTzT4N1s70VItgmvGKAwrcJnR16&__tn__=KF)
-- [ ] [Porta Artis](https://portaartis.com/pl)
-- [ ] [Villa La Fleur](https://www.facebook.com/villalafleurkonstancin?__cft__[0]=AZUxjVRuOWVcvexF_H--fWBtjHcDJpsr8PdVwVYv_C7d-Mtindi12L2FolD1CGhCQf4of5S6G9PESTocYWmJxr5Gpj5jIiPgUGPoOwL-ro6CUEzTA6t8KTYsrbn7p8DHy6hoZ3ENhxeRD4lpHgQeSw1EcX-SgtlPULBNCCwJq6Ej6o6uskq6AKyllh0NvmTzT4N1s70VItgmvGKAwrcJnR16&__tn__=KF)
-- [ ] 

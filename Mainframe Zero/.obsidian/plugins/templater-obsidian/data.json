@@ -37,6 +37,10 @@
     {
       "folder": "Job/Tech",
       "template": "Job/Tech/_template-tech.md"
+    },
+    {
+      "folder": "Inbox",
+      "template": "Inbox/_template.md"
     }
   ],
   "enable_file_templates": false,

@@ -22,9 +22,10 @@ Cursor is a popular AI-powered code editor designed for software development, bu
 
 ## Resources
 - https://cursor.com/docs
-- https://cursor.com/docs
+- [https://cursor.com/docs](https://cursor.com/workshops)
 - https://cursor.com/blog/agent-best-practices
 - https://cursor.com/blog/debug-mode
+- https://cursor.com/security
 
 ## Open Questions
 - 

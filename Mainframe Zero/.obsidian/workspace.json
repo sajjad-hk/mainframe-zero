@@ -10,10 +10,11 @@
           {
             "id": "75812838aec777c9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topic/Zdzisław Beksiński.md",
+                "file": "Inbox/Dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -27,17 +28,18 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Zdzisław Beksiński"
+              "title": "Dashboard"
             }
           },
           {
-            "id": "01fd52b1b11c5327",
+            "id": "7ee0a9d5da4318ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Honda Civic FK (2012).md",
+                "file": "Learning/Mountains & Climbing/Planning/Starorobocianski-Wierch-Trip-Plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,58 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Honda Civic FK (2012)"
-            }
-          },
-          {
-            "id": "688c41d17c449981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic/AI Fluency.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AI Fluency"
-            }
-          },
-          {
-            "id": "4e457e28dc9a7dd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hobby/Need to Buy/Mountain.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mountain"
+              "title": "Starorobocianski-Wierch-Trip-Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 716.5069427490234
   },
   "right": {
     "id": "1d2f10c198c4a13a",
@@ -279,49 +234,49 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "75812838aec777c9",
+  "active": "7ee0a9d5da4318ec",
   "lastOpenFiles": [
-    "Topic/Java.md",
-    "Topic/Array & String.md",
-    "Topic/Algorithm & Data Structure.md",
+    "Car/Honda Civic FK/Dashboard.md",
     "Car/Honda Civic FK/Parts/Osłona skrzyni biegów i silnika Kolchuga.md",
-    "Topic/Two Pointers.md",
-    "Topic/AGI.md",
-    "Topic/AI.md",
-    "Topic/Job Learning.md",
-    "Topic/LeetCode75.md",
-    "Topic/Moravec's Paradox.md",
-    "Topic/n8n.md",
-    "Topic/Prefix Sum.md",
-    "Learning/Next Considerations.md",
-    "Learning/Software Engineering/System Design/Why do we need Load Balancers.md",
-    "Learning/Software Engineering/System Design/What is Database Sharding.md",
-    "Learning/Software Engineering/System Design/What are CDNs.md",
-    "Learning/Software Engineering/System Design/Software Design Interview.md",
-    "Learning/Software Engineering/System Design/SQL Concepts.md",
-    "Learning/Software Engineering/System Design/REST APIs.md",
-    "Learning/Software Engineering/System Design/OOP vs. DOP.md",
-    "Learning/Software Engineering/System Design/Kubernetes.md",
-    "Learning/Software Engineering/System Design/How to choose Database in system design.md",
-    "Learning/Software Engineering/System Design/Encryption.md",
-    "Learning/Software Engineering/System Design/Database Replication.md",
-    "Learning/Software Engineering/System Design/APIs.md",
-    "Learning/Software Engineering/System Design/7 Design Patterns EVERY Developer Should Know.md",
-    "Learning/Next Considerations.md.tmp.13425.1775500397536",
-    "Learning/Software Engineering/Algorithms & DS/LeetCode75/Two Pointers",
-    "Learning/Software Engineering/Algorithms & DS/LeetCode75/Array & String",
-    "Learning/Software Engineering/Algorithms & DS/LeetCode75",
-    "Learning/_templates/flight-log.md.tmp.13425.1775499379501",
-    "Learning/_templates/trip-plan.md.tmp.13425.1775499373968",
-    "Learning/_templates/mountain-route.md.tmp.13425.1775499369834",
-    "Learning/_templates/study-note.md.tmp.13425.1775499364423",
-    "Learning/Drone Piloting/_Overview.md.tmp.13425.1775499360064",
-    "Learning/Mountains & Climbing/_Overview.md.tmp.13425.1775499340389",
+    "Car/Honda Civic FK/Projects/Osłona skrzyni biegów i silnika.md",
+    "Car/Honda Civic FK/Work Log/2026-04-15_Maintenance.md",
+    "Car/Honda Civic FK/Work Log/2026-03-20-przygląd.md",
+    "Car/Honda Civic FK/Work Log/2026-04-01 Rust protection.md",
+    "Cats/BARF.md",
+    "Hobby/Podróż panoramicznym pociągiem przez Alpy.md",
+    "Hobby/Places to Visit.md",
+    "Inbox/Intrinsic Dimension.md",
+    "Inbox/Self Service Garage.md",
+    "Untitled.canvas",
+    "Inbox/Dashboard.md",
+    "Learning/Mountains & Climbing/Planning/Starorobocianski-Wierch-Trip-Plan.md",
+    "Hobby/Zdzisław Beksiński.md",
+    "Car/Honda Civic FK/Parts/_template.md",
+    "Hobby/Need to Buy/Gear Wishlist Table.md",
+    "Hobby/Need to Buy/Gear Wishlist Checklist.md",
+    "Topic/Zdzisław Beksiński.md",
+    "Hobby/Zdzisław Beksiński.md.tmp.1505.1775561308139",
+    "Cats/BARF.md.tmp.1505.1775561034493",
+    "Inbox/Dashboard.md.tmp.1505.1775560699521",
+    "Inbox/Dashboard.md.tmp.1505.1775560651136",
+    "Places to visit.md",
+    "Hobby/Places to Visit.md.tmp.1505.1775560381370",
+    "Inbox/Supabase.md",
+    "Inbox/Supabase.md.tmp.1505.1775560378410",
+    "Inbox/Intrinsic Dimension.md.tmp.1505.1775560376099",
+    "Mathematics.md",
+    "Supbase.md",
+    "Inbox/Dashboard.md.tmp.1505.1775560068159",
+    "Inbox/_template.md.tmp.1505.1775559940576",
+    "Inbox/_template.md",
+    "Inbox/_template.md.tmp.1505.1775559891200",
+    "Learning/_templates/flight-log.md",
+    "Annual/OKRS/2026.md",
+    "Annual/Christmas 2026.md",
     "Learning/Drone Piloting/UAV A1-A3 Course/A1,A3 Review.canvas",
     "Job Learning/Personal/Drone Pilot/UAV A1-A3 Course/A1,A3 Review.canvas",
     "Current Job.old/XPANSIV/Customized JBPM workflows.canvas",
     "Job/Tech/Customized JBPM workflows.canvas",
-    "Untitled.canvas",
     "Pasted image 20260302145315.png",
     "Current Job/Tasks/Untitled.canvas",
     "Presents.canvas",
